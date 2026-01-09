@@ -13,23 +13,3 @@ From a design perspective, the project demonstrates key OOP concepts such as enc
 
 Overall, the Semester System Management System provides a well-organized and realistic simulation of a university semester framework. It serves as an effective educational project for understanding Java-based system design, object relationships, and real-world academic management workflows.
 
-Java Code Folder Structure:
-src/
-└── main/
-    └── java/
-        ├── app/
-        │   └── Main.java
-        │
-        ├── manager/
-        │   └── SystemManager.java
-        │
-        ├── model/
-        │   ├── User.java
-        │   ├── Admin.java
-        │   ├── Faculty.java
-        │   ├── Student.java
-        │   ├── Course.java
-        │   └── Semester.java
-        │
-        └── datastore/
-            └── DataStore.java
